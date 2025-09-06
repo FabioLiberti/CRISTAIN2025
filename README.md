@@ -389,7 +389,7 @@ If you use this code in your research, please cite:
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
+This project is licensed under a personal license. See [LICENSE](LICENSE) file for details. All rights are reserved by the authors. This project may not be copied, distributed, or modified without explicit written permission.
 
 ## Disclaimer
 
