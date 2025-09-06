@@ -1,4 +1,3 @@
-```markdown
 # FA-FedAvg: Criticality-Aware Federated Learning with Cryptographic Verification and Blockchain-Verified Evidence Integrity for Inter-Agency Crime Intelligence
 
 ## Abstract
